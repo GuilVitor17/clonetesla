@@ -1,0 +1,3039 @@
+body{
+    margin: 0;
+}
+
+.btn1{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    color: black;
+
+
+}
+.menu{
+   height: 50px;
+   position: fixed;
+   margin: auto;
+   width: 100%
+}
+nav{
+   height: 50px;
+   margin: auto;
+   text-align: center;
+   width: 1280px;
+   background: linear-gradient(rgb(226, 221, 221),transparent);
+}
+.logo{
+  width: 200px;
+  height: 50px;
+  background-size: cover;
+  float: left;
+}
+.logo img{
+   height: 150px;
+   width: 150px;
+   margin-top: -50px;
+
+}
+ul{
+   width: 970px;
+   height: 50px;
+   float: right;
+   margin: auto;
+   flex-direction: row;  
+   display: flex; 
+   font-size: 16px;
+
+}
+a{
+   color: transparent;
+}
+li{
+   transform: translateX(10px);
+   display: flex; 
+   margin-left: 40px;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   margin-top: 12px;
+   color: #171A20;
+
+}
+
+.btn2{
+
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    color: white;
+}
+
+.btn{
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    display: flex;
+    margin-top: 90vh;
+    margin-left: 30px;
+    
+}
+
+.section2{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    background: url(./M3-Homepage-Desktop-LHD.png) no-repeat center;
+    min-height: 500px;
+    background-size: cover;
+}
+
+.section2{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+
+}
+
+
+.menu-mobile{
+ display: none;
+}
+
+
+
+
+
+
+.Conteudo{
+     height: 500px;
+     width: 50%;
+    margin: auto;
+    text-align: center;
+}
+.Modelo{
+    height: 300px;
+    width: 100%;
+
+}
+
+.Modelo h1{
+    font-size: 45px;
+    padding-top: 00px;
+    font-family: sans-serif;
+    color: #171A20;
+
+}
+
+.Modelo h6{
+    margin-top: -30px;
+    font-size: 18px;
+    color: #171A20;
+}
+
+.Modelo a{
+    color: #333;
+}
+
+.button{
+    width: 520px;
+    height: 50px;
+    text-align: center;
+    margin: auto;
+    margin-top:100px;
+}
+.pedido{
+    background-color: rgba(23, 26, 32, 0.8);
+    color: #fff;
+    width: 250px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    float: left;
+    cursor: pointer;
+
+}
+
+.inventario{
+    background-color: #fff;
+    color: #333;
+    width: 250px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    float: right;
+    cursor: pointer;
+}
+
+/* conteudo 2 */
+
+.section3{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    background: url(./Desktop-ModelY.png ) no-repeat center;
+    min-height: 500px;
+    background-size: cover;
+}
+
+.Conteudo2{
+    height: 500px;
+    width: 50%;
+   margin: auto;
+   text-align: center;
+}
+.Modelo2{
+   height: 220px;
+   width: 100%;
+}
+
+.Modelo2 h1{
+   font-size: 45px;
+   padding-top: 00px;
+   font-family: sans-serif;
+   color: #171A20;
+
+}
+
+.Modelo2 h6{
+   margin-top: -30px;
+   font-size: 18px;
+   color: #171A20;
+}
+
+.Modelo2 a{
+   color: #333;
+}
+
+.button2{
+   width: 520px;
+   height: 50px;
+   text-align: center;
+   margin: auto;
+   margin-top:180px;
+}
+.pedido2{
+   background-color: rgba(23, 26, 32, 0.8);
+   color: #fff;
+   width: 250px;
+   height: 40px;
+   border-radius: 20px;
+   border: none;
+   float: left;
+   cursor: pointer;
+
+}
+
+.inventario2{
+   background-color: #fff;
+   color: #333;
+   width: 250px;
+   height: 40px;
+   border-radius: 20px;
+   border: none;
+   float: right;
+   cursor: pointer;
+}
+
+/* conteudo 3 */
+
+.section4{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    background: url(./Homepage-Model-S-Desktop-LHD.png) no-repeat center;
+    min-height: 500px;
+    background-size: cover;
+}
+
+.Conteudo3{
+    height: 500px;
+    width: 50%;
+   margin: auto;
+   text-align: center;
+}
+.Modelo3{
+   height: 220px;
+   width: 100%;
+}
+
+.Modelo3 h1{
+   font-size: 45px;
+   padding-top: 00px;
+   font-family: sans-serif;
+   color: #171A20;
+
+}
+
+.Modelo3 h6{
+   margin-top: -30px;
+   font-size: 18px;
+   color: #171A20;
+}
+
+.Modelo3 a{
+   color: #333;
+}
+
+.button3{
+   width: 520px;
+   height: 50px;
+   text-align: center;
+   margin: auto;
+   margin-top:180px;
+}
+.pedido3{
+   background-color: rgba(23, 26, 32, 0.8);
+   color: #fff;
+   width: 250px;
+   height: 40px;
+   border-radius: 20px;
+   border: none;
+   float: left;
+   cursor: pointer;
+
+}
+
+.inventario3{
+   background-color: #fff;
+   color: #333;
+   width: 250px;
+   height: 40px;
+   border-radius: 20px;
+   border: none;
+   float: right;
+   cursor: pointer;
+}
+
+/* conteudo 5 */
+
+.section5{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    background: url(./Homepage-Model-X-Desktop-LHD.png) no-repeat center;
+    min-height: 500px;
+    background-size: cover;
+}
+
+.Conteudo4{
+    height: 500px;
+    width: 50%;
+   margin: auto;
+   text-align: center;
+}
+.Modelo4{
+   height: 220px;
+   width: 100%;
+}
+
+.Modelo4 h1{
+   font-size: 45px;
+   padding-top: 00px;
+   font-family: sans-serif;
+   color: #171A20;
+
+}
+
+.Modelo4 h6{
+   margin-top: -30px;
+   font-size: 18px;
+   color: #171A20;
+}
+
+.Modelo4 a{
+   color: #333;
+}
+
+.button4{
+   width: 520px;
+   height: 50px;
+   text-align: center;
+   margin: auto;
+   margin-top:180px;
+}
+.pedido4{
+   background-color: rgba(23, 26, 32, 0.8);
+   color: #fff;
+   width: 250px;
+   height: 40px;
+   border-radius: 20px;
+   border: none;
+   float: left;
+   cursor: pointer;
+
+}
+
+.inventario4{
+   background-color: #fff;
+   color: #333;
+   width: 250px;
+   height: 40px;
+   border-radius: 20px;
+   border: none;
+   float: right;
+   cursor: pointer;
+}
+
+/* conteudo 6 */
+
+.section6{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    background: url(./HP-SolarPanels-D.png) no-repeat center;
+    min-height: 500px;
+    background-size: cover;
+}
+
+.Conteudo5{
+    height: 500px;
+    width: 50%;
+   margin: auto;
+   text-align: center;
+}
+.Modelo5{
+   height: 220px;
+   width: 100%;
+}
+
+.Modelo5 h1{
+   font-size: 45px;
+   padding-top: 00px;
+   font-family: sans-serif;
+   color: #171A20;
+
+}
+
+.Modelo5 h6{
+   margin-top: -30px;
+   font-size: 18px;
+   color: #171A20;
+}
+
+.Modelo5 a{
+   color: #333;
+}
+
+.button5{
+   width: 520px;
+   height: 50px;
+   text-align: center;
+   margin: auto;
+   margin-top:180px;
+}
+.pedido5{
+   background-color: rgba(23, 26, 32, 0.8);
+   color: #fff;
+   width: 250px;
+   height: 40px;
+   border-radius: 20px;
+   border: none;
+   float: left;
+   cursor: pointer;
+
+}
+
+.inventario5{
+   background-color: #fff;
+   color: #333;
+   width: 250px;
+   height: 40px;
+   border-radius: 20px;
+   border: none;
+   float: right;
+   cursor: pointer;
+}
+
+
+/* conteudo 7 */
+
+.section7{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    background: url(./HP-SR-Design-D.png) no-repeat center;
+    min-height: 500px;
+    background-size: cover;
+}
+
+.Conteudo6{
+    height: 500px;
+    width: 50%;
+   margin: auto;
+   text-align: center;
+}
+.Modelo6{
+   height: 220px;
+   width: 100%;
+}
+
+.Modelo6 h1{
+   font-size: 45px;
+   padding-top: 00px;
+   font-family: sans-serif;
+   color: #171A20;
+
+}
+
+.Modelo6 h6{
+   margin-top: -30px;
+   font-size: 18px;
+   color: #171A20;
+}
+
+.Modelo6 a{
+   color: #333;
+}
+
+.button6{
+   width: 520px;
+   height: 50px;
+   text-align: center;
+   margin: auto;
+   margin-top:180px;
+}
+.pedido6{
+   background-color: rgba(23, 26, 32, 0.8);
+   color: #fff;
+   width: 250px;
+   height: 40px;
+   margin-top: 20px;
+   border-radius: 20px;
+   border: none;
+   float: left;
+   cursor: pointer;
+
+}
+
+.inventario6{
+   background-color: #fff;
+   color: #333;
+   width: 250px;
+   height: 40px;
+   border-radius: 20px;
+   border: none;
+   float: right;
+   cursor: pointer;
+}
+
+/* conteudo 8 */
+
+.section8{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    background: url(./dd739764-bcaa-4263-9488-8c73bc9fb046.png) no-repeat center;
+    min-height: 500px;
+    background-size: cover;
+}
+
+.Conteudo7{
+    height: 500px;
+    width: 60%;
+   margin: auto;
+   text-align: center;
+}
+.Modelo7{
+   height: 220px;
+   width: 100%;
+}
+
+.Modelo7 h1{
+   font-size: 45px;
+   padding-top: 00px;
+   font-family: sans-serif;
+   color: #171A20;
+
+}
+
+
+.Modelo7 a{
+   color: #333;
+}
+
+.button7{
+   width: 520px;
+   height: 50px;
+   text-align: center;
+   margin: auto;
+   margin-top:200px;
+}
+.pedido7{
+   background-color: rgba(23, 26, 32, 0.8);
+   color: #fff;
+   width: 250px;
+   height: 40px;
+   border-radius: 20px;
+   border: none;
+   cursor: pointer;
+   text-align: center;
+   margin: auto;
+
+}
+.Conteudo7 a{
+    color: #171A20;
+    margin-left: 10px;
+    font-size: 15px;
+    display: inline-block;
+    
+}
+
+@media (max-width:700px) {
+
+    li{
+        font-size: 11px;
+        transform: translateX(40px);
+    }
+
+
+    .btn1{
+        width: 100px;
+        height: 100px;
+        background-color: white;
+        color: black;
+    
+    
+    }
+    nav{
+      float: left;
+  transform: translateX(90px);
+  width: 600px;
+  position: fixed;
+}
+   .menu{
+      display: none;
+   } 
+   .logo{
+      position: fixed;
+      margin-top: 30px;
+
+   }
+   .logo img{
+      width: 200px;
+      height: 250px;
+      margin-top: -100px;
+      z-index: 0;
+   }
+   .menu-mobile{
+      display: block;
+      width: 700px;
+      height: 120px;
+      background-color: aqua;
+   }
+   nav{
+      position: fixed;
+      width: 700px;
+      float: left;
+      margin-left: -90px;
+      height: 120px;
+      background: linear-gradient(#333,#333);
+   }
+   #ul{
+      width: 700px;
+      height: 145vh;
+      background-color: #333;
+      margin-left: -10px;
+      margin-top: -110px;
+      z-index: 4000;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      display: none;
+   }
+   li{
+      font-size: 70px;
+      margin-top: 70px;
+      text-align: center;
+      margin-left: 70px;
+      color:#fff;
+
+   }
+
+   .abrir{
+      width: 100px;
+      height: 100px;
+      margin-top: 10px;
+      margin-right: 10px;
+      float: right;
+      font-size: 70px;
+   }
+   .fechar{
+      width: 100px;
+      height: 100px;
+      margin-top: 10px;
+      margin-right: -100px;
+      float: left;
+      font-size: 70px;
+      transform: translateX(590px);
+   }
+
+
+
+    
+    .btn2{
+    
+        width: 100px;
+        height: 100px;
+        background-color: black;
+        color: white;
+    }
+    
+    .btn{
+        width: 400px;
+        height: 100px;
+        position: fixed;
+        margin-top: 20vh;
+        margin-left: 30px;
+        transform: translateX(-20px);
+        
+    }
+
+
+
+    .section2{
+        width: 700px;
+        height: 200vh;
+        text-align: center;
+        margin: auto;
+        display: flex;
+        min-height: 500px;
+        background-size: cover;
+    }
+
+    .Conteudo{
+        height: 900px;
+        width: 700px;
+       margin: auto;
+       text-align: center;
+   }
+   .Modelo{
+       height: 300px;
+       width: 100%;
+   
+   }
+
+   
+   .Modelo h1{
+       font-size: 55px;
+       padding-top: 00px;
+       font-family: sans-serif;
+       color: #171A20;
+   
+   }
+   
+   .Modelo h6{
+       margin-top: -30px;
+       font-size: 20px;
+       color: #171A20;
+   }
+   
+   .Modelo a{
+       color: #333;
+   }
+   
+   .button{
+       width: 520px;
+       height: 50px;
+       text-align: center;
+       margin: auto;
+       margin-top:400px;
+   }
+   .pedido{
+       background-color: rgba(23, 26, 32, 0.8);
+       color: #fff;
+       width: 250px;
+       height: 90px;
+       border-radius: 20px;
+       border: none;
+       float: left;
+       cursor: pointer;
+   
+   }
+   
+   .inventario{
+       background-color: #fff;
+       color: #333;
+       width: 250px;
+       height: 90px;
+       border-radius: 20px;
+       border: none;
+       float: right;
+       cursor: pointer;
+   }
+   
+   /* conteudo 2 */
+   
+   .section3{
+       width: 700px;
+       height: 200vh;
+       text-align: center;
+       margin: auto;
+       display: flex;
+       min-height: 500px;
+       background-size: cover;
+   }
+   
+   .Conteudo2{
+       height: 900px;
+       width: 700px;
+      margin: auto;
+      text-align: center;
+      margin-top: 140px;
+   }
+   .Modelo2{
+      height: 220px;
+      width: 100%;
+   }
+   
+   .Modelo2 h1{
+      font-size: 55px;
+      padding-top: 00px;
+      font-family: sans-serif;
+      color: #171A20;
+   
+   }
+   
+   .Modelo2 h6{
+      margin-top: -30px;
+      font-size: 18px;
+      color: #171A20;
+   }
+   
+   .Modelo2 a{
+      color: #333;
+   }
+   
+   .button2{
+      width: 520px;
+      height: 50px;
+      text-align: center;
+      margin: auto;
+      margin-top:480px;
+   }
+   .pedido2{
+      background-color: rgba(23, 26, 32, 0.8);
+      color: #fff;
+      width: 250px;
+      height: 40px;
+      border-radius: 20px;
+      border: none;
+      float: left;
+      cursor: pointer;
+   
+   }
+   
+   .inventario2{
+      background-color: #fff;
+      color: #333;
+      width: 250px;
+      height: 40px;
+      border-radius: 20px;
+      border: none;
+      float: right;
+      cursor: pointer;
+   }
+   
+   /* conteudo 3 */
+   
+   .section4{
+       width: 700px;
+       height: 200vh;
+       text-align: center;
+       margin: auto;
+       display: flex;
+       min-height: 500px;
+       background-size: cover;
+   }
+   
+   .Conteudo3{
+       height: 800px;
+       width: 700px;
+      margin: auto;
+      text-align: center;
+   }
+   .Modelo3{
+      height: 220px;
+      width: 100%;
+   }
+   
+   .Modelo3 h1{
+      font-size: 45px;
+      padding-top: 00px;
+      font-family: sans-serif;
+      color: #171A20;
+   
+   }
+   
+   .Modelo3 h6{
+      margin-top: -30px;
+      font-size: 18px;
+      color: #171A20;
+   }
+   
+   .Modelo3 a{
+      color: #333;
+   }
+   
+   .button3{
+      width: 520px;
+      height: 50px;
+      text-align: center;
+      margin: auto;
+      margin-top:380px;
+   }
+   .pedido3{
+      background-color: rgba(23, 26, 32, 0.8);
+      color: #fff;
+      width: 250px;
+      height: 100px;
+      border-radius: 20px;
+      border: none;
+      float: left;
+      cursor: pointer;
+   
+   }
+   
+   .inventario3{
+      background-color: #fff;
+      color: #333;
+      width: 250px;
+      height: 100px;
+      border-radius: 20px;
+      border: none;
+      float: right;
+      cursor: pointer;
+   }
+   
+   /* conteudo 5 */
+   
+   .section5{
+       width: 700px;
+       height: 200vh;
+       text-align: center;
+       margin: auto;
+       display: flex;
+       min-height: 500px;
+       background-size: cover;
+   }
+   
+   .Conteudo4{
+       height: 800px;
+       width: 700px;
+      margin: auto;
+      text-align: center;
+   }
+   .Modelo4{
+      height: 220px;
+      width: 100%;
+   }
+   
+   .Modelo4 h1{
+      font-size: 45px;
+      padding-top: 00px;
+      font-family: sans-serif;
+      color: #171A20;
+   
+   }
+   
+   .Modelo4 h6{
+      margin-top: -30px;
+      font-size: 18px;
+      color: #171A20;
+   }
+   
+   .Modelo4 a{
+      color: #333;
+   }
+   
+   .button4{
+      width: 520px;
+      height: 50px;
+      text-align: center;
+      margin: auto;
+      margin-top:450px;
+   }
+   .pedido4{
+      background-color: rgba(23, 26, 32, 0.8);
+      color: #fff;
+      width: 250px;
+      height: 100px;
+      border-radius: 20px;
+      border: none;
+      float: left;
+      cursor: pointer;
+   
+   }
+   
+   .inventario4{
+      background-color: #fff;
+      color: #333;
+      width: 250px;
+      height: 100px;
+      border-radius: 20px;
+      border: none;
+      float: right;
+      cursor: pointer;
+   }
+   
+   /* conteudo 6 */
+   
+   .section6{
+       width: 700px;
+       height: 200vh;
+       text-align: center;
+       margin: auto;
+       display: flex;
+      
+       min-height: 500px;
+       background-size: cover;
+   }
+   
+   .Conteudo5{
+       height: 800px;
+       width: 700px;
+      margin: auto;
+      text-align: center;
+   }
+   .Modelo5{
+      height: 220px;
+      width: 100%;
+   }
+   
+   .Modelo5 h1{
+      font-size: 45px;
+      padding-top: 00px;
+      font-family: sans-serif;
+      color: #171A20;
+   
+   }
+   
+   .Modelo5 h6{
+      margin-top: -30px;
+      font-size: 18px;
+      color: #171A20;
+   }
+   
+   .Modelo5 a{
+      color: #333;
+   }
+   
+   .button5{
+      width: 520px;
+      height: 50px;
+      text-align: center;
+      margin: auto;
+      margin-top:450px;
+   }
+   .pedido5{
+      background-color: rgba(23, 26, 32, 0.8);
+      color: #fff;
+      width: 250px;
+      height: 100px;
+      border-radius: 20px;
+      border: none;
+      float: left;
+      cursor: pointer;
+   
+   }
+   
+   .inventario5{
+      background-color: #fff;
+      color: #333;
+      width: 250px;
+      height: 100px;
+      border-radius: 20px;
+      border: none;
+      float: right;
+      cursor: pointer;
+   }
+   
+   
+   /* conteudo 7 */
+   
+   .section7{
+       width: 700px;
+       height: 200vh;
+       text-align: center;
+       margin: auto;
+       display: flex;
+      
+       min-height: 500px;
+       background-size: cover;
+   }
+   
+   .Conteudo6{
+       height: 800px;
+       width: 700px;
+      margin: auto;
+      text-align: center;
+   }
+   .Modelo6{
+      height: 220px;
+      width: 100%;
+   }
+   
+   .Modelo6 h1{
+      font-size: 45px;
+      padding-top: 00px;
+      font-family: sans-serif;
+      color: #171A20;
+   
+   }
+   
+   .Modelo6 h6{
+      margin-top: -30px;
+      font-size: 18px;
+      color: #171A20;
+   }
+   
+   .Modelo6 a{
+      color: #333;
+   }
+   
+   .button6{
+      width: 520px;
+      height: 50px;
+      text-align: center;
+      margin: auto;
+      margin-top:450px;
+   }
+   .pedido6{
+      background-color: rgba(23, 26, 32, 0.8);
+      color: #fff;
+      width: 250px;
+      height: 100px;
+      border-radius: 20px;
+      border: none;
+      float: left;
+      cursor: pointer;
+   
+   }
+   
+   .inventario6{
+      background-color: #fff;
+      color: #333;
+      width: 250px;
+      height: 100px;
+      border-radius: 20px;
+      border: none;
+      float: right;
+      cursor: pointer;
+   }
+   
+   /* conteudo 8 */
+   
+   .section8{
+       width: 700px;
+       height: 200vh;
+       text-align: center;
+       margin: auto;
+       display: flex;
+      
+       min-height: 500px;
+       background-size: cover;
+   }
+   
+   .Conteudo7{
+       height: 700px;
+       width: 700px;
+      margin: auto;
+      text-align: center;
+   }
+   .Modelo7{
+      height: 220px;
+      width: 100%;
+   }
+   
+   .Modelo7 h1{
+      font-size: 45px;
+      padding-top: 00px;
+      font-family: sans-serif;
+      color: #171A20;
+   
+   }
+   
+   
+   .Modelo7 a{
+      color: #333;
+   }
+   
+   .button7{
+      width: 520px;
+      height: 50px;
+      text-align: center;
+      margin: auto;
+      margin-top:400px;
+   }
+   .pedido7{
+      background-color: rgba(23, 26, 32, 0.8);
+      color: #fff;
+      width: 250px;
+      height: 100px;
+      border-radius: 20px;
+      border: none;
+      cursor: pointer;
+      text-align: center;
+      margin: auto;
+   
+   }
+   .Conteudo7 a{
+       color: #171A20;
+       margin-left: 10px;
+       font-size: 12px;
+       display: inline-block;
+       margin-top: 250px;
+       
+   }
+   .menu1 , .menu2, .menu3{
+       display: none;
+   }
+    
+}
+
+
+@media (max-width:1023px) and (min-width:701px) {
+
+    .menu1 , .menu2, .menu3{
+        display: none;
+    }
+
+
+    li{
+        font-size: 17px;
+        transform: translateX(0px);
+    }
+  
+
+
+    .btn1{
+        width: 200px;
+        height: 70px;
+        background-color: white;
+        color: black;
+    
+    
+    }
+
+    nav{
+      float: left;
+  transform: translateX(90px);
+  width: 600px;
+  position: fixed;
+}
+   .menu{
+      display: none;
+   } 
+   .logo{
+      position: fixed;
+      margin-top: 30px;
+
+   }
+   .logo img{
+      width: 200px;
+      height: 250px;
+      margin-top: -100px;
+      z-index: 0;
+   }
+   .menu-mobile{
+      display: block;
+      width: 1023px;
+      height: 120px;
+      background-color: aqua;
+   }
+   nav{
+      position: fixed;
+      width: 1023px;
+      float: left;
+      margin-left: -90px;
+      height: 120px;
+      background: linear-gradient(#333,#333);
+   }
+   #ul{
+      width: 1023px;
+      height: 100vh;
+      background-color: #333;
+      margin-left: -10px;
+      margin-top: -110px;
+      z-index: 4000;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      display: none;
+   }
+   li{
+      font-size: 70px;
+      margin-top: 70px;
+      text-align: center;
+      margin-left: 70px;
+      color:#fff;
+
+   }
+
+   .abrir{
+      width: 100px;
+      height: 100px;
+      margin-top: 10px;
+      margin-right: 10px;
+      float: right;
+      font-size: 70px;
+   }
+   .fechar{
+      width: 100px;
+      height: 100px;
+      margin-top: 10px;
+      margin-right: -100px;
+      float: right;
+      font-size: 70px;
+      transform: translateX(-109px);
+   }
+
+
+    
+    .btn2{
+    
+        width: 200px;
+        height: 70px;
+        background-color: black;
+        color: white;
+    }
+    
+    .btn{
+        width: 400px;
+        height: 100px;
+        position: fixed;
+        display: flex;
+        margin-top: 120vh;
+        margin-left: 30px;
+        
+    }
+
+
+
+    .section2{
+        width: 1023px;
+        height: 130vh;
+        text-align: center;
+        margin: auto;
+        display: flex;
+       
+        min-height: 500px;
+        background-size: cover;
+    }
+
+    .Conteudo{
+        height: 900px;
+        width: 700px;
+       margin: auto;
+       text-align: center;
+   }
+   .Modelo{
+       height: 300px;
+       width: 100%;
+   
+   }
+
+   
+   .Modelo h1{
+       font-size: 55px;
+       padding-top: 00px;
+       font-family: sans-serif;
+       color: #171A20;
+   
+   }
+   
+   .Modelo h6{
+       margin-top: -30px;
+       font-size: 20px;
+       color: #171A20;
+   }
+   
+   .Modelo a{
+       color: #333;
+   }
+   
+   .button{
+       width: 520px;
+       height: 50px;
+       text-align: center;
+       margin: auto;
+       margin-top:400px;
+   }
+   .pedido{
+       background-color: rgba(23, 26, 32, 0.8);
+       color: #fff;
+       width: 250px;
+       height: 90px;
+       border-radius: 20px;
+       border: none;
+       float: left;
+       cursor: pointer;
+   
+   }
+   
+   .inventario{
+       background-color: #fff;
+       color: #333;
+       width: 250px;
+       height: 90px;
+       border-radius: 20px;
+       border: none;
+       float: right;
+       cursor: pointer;
+   }
+   
+   /* conteudo 2 */
+   
+   .section3{
+    width: 1023px;
+    height: 140vh;
+    text-align: center;
+       margin: auto;
+       display: flex;
+      
+       min-height: 500px;
+       background-size: cover;
+   }
+   
+   .Conteudo2{
+       height: 900px;
+       width: 700px;
+      margin: auto;
+      text-align: center;
+      margin-top: 140px;
+   }
+   .Modelo2{
+      height: 220px;
+      width: 100%;
+   }
+   
+   .Modelo2 h1{
+      font-size: 55px;
+      padding-top: 00px;
+      font-family: sans-serif;
+      color: #171A20;
+   
+   }
+   
+   .Modelo2 h6{
+      margin-top: -30px;
+      font-size: 18px;
+      color: #171A20;
+   }
+   
+   .Modelo2 a{
+      color: #333;
+   }
+   
+   .button2{
+      width: 520px;
+      height: 50px;
+      text-align: center;
+      margin: auto;
+      margin-top:480px;
+   }
+   .pedido2{
+      background-color: rgba(23, 26, 32, 0.8);
+      color: #fff;
+      width: 250px;
+      height: 40px;
+      border-radius: 20px;
+      border: none;
+      float: left;
+      cursor: pointer;
+   
+   }
+   
+   .inventario2{
+      background-color: #fff;
+      color: #333;
+      width: 250px;
+      height: 40px;
+      border-radius: 20px;
+      border: none;
+      float: right;
+      cursor: pointer;
+   }
+   
+   /* conteudo 3 */
+   
+   .section4{
+    width: 1023px;
+       height: 140vh;
+       text-align: center;
+       margin: auto;
+       display: flex;
+      
+       min-height: 500px;
+       background-size: cover;
+   }
+   
+   .Conteudo3{
+       height: 800px;
+       width: 700px;
+      margin: auto;
+      text-align: center;
+   }
+   .Modelo3{
+      height: 220px;
+      width: 100%;
+   }
+   
+   .Modelo3 h1{
+      font-size: 45px;
+      padding-top: 00px;
+      font-family: sans-serif;
+      color: #171A20;
+   
+   }
+   
+   .Modelo3 h6{
+      margin-top: -30px;
+      font-size: 18px;
+      color: #171A20;
+   }
+   
+   .Modelo3 a{
+      color: #333;
+   }
+   
+   .button3{
+      width: 520px;
+      height: 50px;
+      text-align: center;
+      margin: auto;
+      margin-top:380px;
+   }
+   .pedido3{
+      background-color: rgba(23, 26, 32, 0.8);
+      color: #fff;
+      width: 250px;
+      height: 100px;
+      border-radius: 20px;
+      border: none;
+      float: left;
+      cursor: pointer;
+   
+   }
+   
+   .inventario3{
+      background-color: #fff;
+      color: #333;
+      width: 250px;
+      height: 100px;
+      border-radius: 20px;
+      border: none;
+      float: right;
+      cursor: pointer;
+   }
+   
+   /* conteudo 5 */
+   
+   .section5{
+    width: 1023px;
+    height: 140vh;
+    text-align: center;
+       margin: auto;
+       display: flex;
+      
+       min-height: 500px;
+       background-size: cover;
+   }
+   
+   .Conteudo4{
+       height: 800px;
+       width: 700px;
+      margin: auto;
+      text-align: center;
+   }
+   .Modelo4{
+      height: 220px;
+      width: 100%;
+   }
+   
+   .Modelo4 h1{
+      font-size: 45px;
+      padding-top: 00px;
+      font-family: sans-serif;
+      color: #171A20;
+   
+   }
+   
+   .Modelo4 h6{
+      margin-top: -30px;
+      font-size: 18px;
+      color: #171A20;
+   }
+   
+   .Modelo4 a{
+      color: #333;
+   }
+   
+   .button4{
+      width: 520px;
+      height: 50px;
+      text-align: center;
+      margin: auto;
+      margin-top:450px;
+   }
+   .pedido4{
+      background-color: rgba(23, 26, 32, 0.8);
+      color: #fff;
+      width: 250px;
+      height: 100px;
+      border-radius: 20px;
+      border: none;
+      float: left;
+      cursor: pointer;
+   
+   }
+   
+   .inventario4{
+      background-color: #fff;
+      color: #333;
+      width: 250px;
+      height: 100px;
+      border-radius: 20px;
+      border: none;
+      float: right;
+      cursor: pointer;
+   }
+   
+   /* conteudo 6 */
+   
+   .section6{
+    width: 1023px;
+    height: 140vh;
+    text-align: center;
+       margin: auto;
+       display: flex;
+      
+       min-height: 500px;
+       background-size: cover;
+   }
+   
+   .Conteudo5{
+       height: 800px;
+       width: 700px;
+      margin: auto;
+      text-align: center;
+   }
+   .Modelo5{
+      height: 220px;
+      width: 100%;
+   }
+   
+   .Modelo5 h1{
+      font-size: 45px;
+      padding-top: 00px;
+      font-family: sans-serif;
+      color: #171A20;
+   
+   }
+   
+   .Modelo5 h6{
+      margin-top: -30px;
+      font-size: 18px;
+      color: #171A20;
+   }
+   
+   .Modelo5 a{
+      color: #333;
+   }
+   
+   .button5{
+      width: 520px;
+      height: 50px;
+      text-align: center;
+      margin: auto;
+      margin-top:450px;
+   }
+   .pedido5{
+      background-color: rgba(23, 26, 32, 0.8);
+      color: #fff;
+      width: 250px;
+      height: 100px;
+      border-radius: 20px;
+      border: none;
+      float: left;
+      cursor: pointer;
+   
+   }
+   
+   .inventario5{
+      background-color: #fff;
+      color: #333;
+      width: 250px;
+      height: 100px;
+      border-radius: 20px;
+      border: none;
+      float: right;
+      cursor: pointer;
+   }
+   
+   
+   /* conteudo 7 */
+   
+   .section7{
+    width: 1023px;
+    height: 140vh;
+    text-align: center;
+       margin: auto;
+       display: flex;
+      
+       min-height: 500px;
+       background-size: cover;
+   }
+   
+   .Conteudo6{
+       height: 800px;
+       width: 700px;
+      margin: auto;
+      text-align: center;
+   }
+   .Modelo6{
+      height: 220px;
+      width: 100%;
+   }
+   
+   .Modelo6 h1{
+      font-size: 45px;
+      padding-top: 00px;
+      font-family: sans-serif;
+      color: #171A20;
+   
+   }
+   
+   .Modelo6 h6{
+      margin-top: -30px;
+      font-size: 18px;
+      color: #171A20;
+   }
+   
+   .Modelo6 a{
+      color: #333;
+   }
+   
+   .button6{
+      width: 520px;
+      height: 50px;
+      text-align: center;
+      margin: auto;
+      margin-top:450px;
+   }
+   .pedido6{
+      background-color: rgba(23, 26, 32, 0.8);
+      color: #fff;
+      width: 250px;
+      height: 100px;
+      border-radius: 20px;
+      border: none;
+      float: left;
+      cursor: pointer;
+   
+   }
+   
+   .inventario6{
+      background-color: #fff;
+      color: #333;
+      width: 250px;
+      height: 100px;
+      border-radius: 20px;
+      border: none;
+      float: right;
+      cursor: pointer;
+   }
+   
+   /* conteudo 8 */
+   
+   .section8{
+    width: 1023px;
+    height: 140vh;
+    text-align: center;
+       margin: auto;
+       display: flex;
+      
+       min-height: 500px;
+       background-size: cover;
+   }
+   
+   .Conteudo7{
+       height: 700px;
+       width: 700px;
+      margin: auto;
+      text-align: center;
+   }
+   .Modelo7{
+      height: 220px;
+      width: 100%;
+   }
+   
+   .Modelo7 h1{
+      font-size: 45px;
+      padding-top: 00px;
+      font-family: sans-serif;
+      color: #171A20;
+   
+   }
+   
+   
+   .Modelo7 a{
+      color: #333;
+   }
+   
+   .button7{
+      width: 520px;
+      height: 50px;
+      text-align: center;
+      margin: auto;
+      margin-top:400px;
+   }
+   .pedido7{
+      background-color: rgba(23, 26, 32, 0.8);
+      color: #fff;
+      width: 250px;
+      height: 100px;
+      border-radius: 20px;
+      border: none;
+      cursor: pointer;
+      text-align: center;
+      margin: auto;
+   
+   }
+   .Conteudo7 a{
+       color: #171A20;
+       margin-left: 10px;
+       font-size: 12px;
+       display: inline-block;
+       margin-top: 250px;
+       
+   }
+  
+    
+}
+
+
+@media (max-width:1279px) and (min-width:1024px) {
+
+    .menu1 , .menu2, .menu3{
+        display: none;
+    }
+
+
+    li{
+        font-size: 15px;
+        transform: translateX(0px);
+    }
+  
+ }
+
+
+
+ @media (max-width:1500px) and (min-width:1281px) {
+
+
+    .btn1{
+        width: 100px;
+        height: 50;
+        background-color: white;
+        color: black;
+    
+    
+    }
+    
+    .btn2{
+    
+        width: 100px;
+        height: 50px;
+        background-color: black;
+        color: white;
+    }
+    
+    .btn{
+        width: 200px;
+        height: 100px;
+        position: fixed;
+        display: flex;
+        margin-top: 90vh;
+        margin-left: 30px;
+        
+    }
+
+    .Conteudo{
+        height: 1000px;
+        width: 700px;
+       margin: auto;
+       text-align: center;
+   }
+   .Modelo{
+       height: 300px;
+       width: 100%;
+   
+   }
+
+   
+   .Modelo h1{
+       font-size: 55px;
+       padding-top: 00px;
+       font-family: sans-serif;
+       color: #171A20;
+   
+   }
+   
+   .Modelo h6{
+       margin-top: -30px;
+       font-size: 20px;
+       color: #171A20;
+   }
+   
+   .Modelo a{
+       color: #333;
+   }
+   
+   .button{
+       width: 520px;
+       height: 50px;
+       text-align: center;
+       margin: auto;
+       margin-top:600px;
+   }
+   
+   /* conteudo 2 */
+   
+
+   
+   .Conteudo2{
+       height: 1000px;
+       width: 700px;
+      margin: auto;
+      text-align: center;
+      margin-top: 140px;
+   }
+   .Modelo2{
+      height: 220px;
+      width: 100%;
+   }
+   
+   .Modelo2 h1{
+      font-size: 55px;
+      padding-top: 00px;
+      font-family: sans-serif;
+      color: #171A20;
+   
+   }
+   
+   .Modelo2 h6{
+      margin-top: -30px;
+      font-size: 18px;
+      color: #171A20;
+   }
+   
+   .Modelo2 a{
+      color: #333;
+   }
+   
+   .button2{
+      width: 520px;
+      height: 50px;
+      text-align: center;
+      margin: auto;
+      margin-top:600px;
+   }
+  
+   /* conteudo 3 */
+   
+   .Conteudo3{
+    height: 1000px;
+    width: 700px;
+   margin: auto;
+   text-align: center;
+   margin-top: 140px;
+}
+.Modelo3{
+   height: 220px;
+   width: 100%;
+}
+
+.Modelo3 h1{
+   font-size: 55px;
+   padding-top: 00px;
+   font-family: sans-serif;
+   color: #171A20;
+
+}
+
+.Modelo3 h6{
+   margin-top: -30px;
+   font-size: 18px;
+   color: #171A20;
+}
+
+.Modelo3 a{
+   color: #333;
+}
+
+.button3{
+   width: 520px;
+   height: 50px;
+   text-align: center;
+   margin: auto;
+   margin-top:600px;
+}
+
+   /* conteudo 5 */
+   
+   .Conteudo4{
+    height: 1000px;
+    width: 700px;
+   margin: auto;
+   text-align: center;
+   margin-top: 140px;
+}
+.Modelo4{
+   height: 220px;
+   width: 100%;
+}
+
+.Modelo4 h1{
+   font-size: 55px;
+   padding-top: 00px;
+   font-family: sans-serif;
+   color: #171A20;
+
+}
+
+.Modelo4 h6{
+   margin-top: -30px;
+   font-size: 18px;
+   color: #171A20;
+}
+
+.Modelo4 a{
+   color: #333;
+}
+
+.button4{
+   width: 520px;
+   height: 50px;
+   text-align: center;
+   margin: auto;
+   margin-top:600px;
+}
+
+   /* conteudo 6 */
+   
+   .Conteudo5{
+    height: 1000px;
+    width: 700px;
+   margin: auto;
+   text-align: center;
+   margin-top: 140px;
+}
+.Modelo5{
+   height: 220px;
+   width: 100%;
+}
+
+.Modelo5 h1{
+   font-size: 55px;
+   padding-top: 00px;
+   font-family: sans-serif;
+   color: #171A20;
+
+}
+
+.Modelo5 h6{
+   margin-top: -30px;
+   font-size: 18px;
+   color: #171A20;
+}
+
+.Modelo5 a{
+   color: #333;
+}
+
+.button5{
+   width: 520px;
+   height: 50px;
+   text-align: center;
+   margin: auto;
+   margin-top:600px;
+}
+
+   /* conteudo 8 */
+   
+   .Conteudo6{
+    height: 1000px;
+    width: 700px;
+   margin: auto;
+   text-align: center;
+   margin-top: 140px;
+}
+.Modelo6{
+   height: 220px;
+   width: 100%;
+}
+
+.Modelo6 h1{
+   font-size: 55px;
+   padding-top: 00px;
+   font-family: sans-serif;
+   color: #171A20;
+
+}
+
+.Modelo6 h6{
+   margin-top: -30px;
+   font-size: 18px;
+   color: #171A20;
+}
+
+.Modelo6 a{
+   color: #333;
+}
+
+.button6{
+   width: 520px;
+   height: 50px;
+   text-align: center;
+   margin: auto;
+   margin-top:600px;
+}
+
+  
+    
+ }
+
+
+ @media (min-width:1500px) and (max-width:1920px) {
+
+
+
+   .btn1{
+        width: 150px;
+        height: 80;
+        background-color: white;
+        color: black;
+    
+    
+    }
+    
+    .btn2{
+    
+        width: 150px;
+        height: 80px;
+        background-color: black;
+        color: white;
+    }
+    
+    .btn{
+        width: 300px;
+        height: 100px;
+        position: fixed;
+        display: flex;
+        margin-top: 90vh;
+        margin-left: 30px;
+        
+    }
+
+    .Conteudo{
+        height: 1000px;
+        width: 700px;
+       margin: auto;
+       text-align: center;
+   }
+   .Modelo{
+       height: 300px;
+       width: 100%;
+   
+   }
+
+   
+   .Modelo h1{
+       font-size: 55px;
+       padding-top: 00px;
+       font-family: sans-serif;
+       color: #171A20;
+   
+   }
+   
+   .Modelo h6{
+       margin-top: -30px;
+       font-size: 20px;
+       color: #171A20;
+   }
+   
+   .Modelo a{
+       color: #333;
+   }
+   
+   .button{
+       width: 520px;
+       height: 50px;
+       text-align: center;
+       margin: auto;
+       margin-top:600px;
+   }
+   
+   /* conteudo 2 */
+   
+
+   
+   .Conteudo2{
+       height: 1000px;
+       width: 700px;
+      margin: auto;
+      text-align: center;
+      margin-top: 140px;
+   }
+   .Modelo2{
+      height: 220px;
+      width: 100%;
+   }
+   
+   .Modelo2 h1{
+      font-size: 55px;
+      padding-top: 00px;
+      font-family: sans-serif;
+      color: #171A20;
+   
+   }
+   
+   .Modelo2 h6{
+      margin-top: -30px;
+      font-size: 18px;
+      color: #171A20;
+   }
+   
+   .Modelo2 a{
+      color: #333;
+   }
+   
+   .button2{
+      width: 520px;
+      height: 50px;
+      text-align: center;
+      margin: auto;
+      margin-top:800px;
+   }
+  
+   /* conteudo 3 */
+   
+   .Conteudo3{
+    height: 1000px;
+    width: 700px;
+   margin: auto;
+   text-align: center;
+   margin-top: 140px;
+}
+.Modelo3{
+   height: 220px;
+   width: 100%;
+}
+
+.Modelo3 h1{
+   font-size: 55px;
+   padding-top: 00px;
+   font-family: sans-serif;
+   color: #171A20;
+
+}
+
+.Modelo3 h6{
+   margin-top: -30px;
+   font-size: 18px;
+   color: #171A20;
+}
+
+.Modelo3 a{
+   color: #333;
+}
+
+.button3{
+   width: 520px;
+   height: 50px;
+   text-align: center;
+   margin: auto;
+   margin-top:800px;
+}
+
+   /* conteudo 5 */
+   
+   .Conteudo4{
+    height: 1000px;
+    width: 700px;
+   margin: auto;
+   text-align: center;
+   margin-top: 140px;
+}
+.Modelo4{
+   height: 220px;
+   width: 100%;
+}
+
+.Modelo4 h1{
+   font-size: 55px;
+   padding-top: 00px;
+   font-family: sans-serif;
+   color: #171A20;
+
+}
+
+.Modelo4 h6{
+   margin-top: -30px;
+   font-size: 18px;
+   color: #171A20;
+}
+
+.Modelo4 a{
+   color: #333;
+}
+
+.button4{
+   width: 520px;
+   height: 50px;
+   text-align: center;
+   margin: auto;
+   margin-top:800px;
+}
+
+   /* conteudo 6 */
+   
+   .Conteudo5{
+    height: 1000px;
+    width: 700px;
+   margin: auto;
+   text-align: center;
+   margin-top: 140px;
+}
+.Modelo5{
+   height: 220px;
+   width: 100%;
+}
+
+.Modelo5 h1{
+   font-size: 55px;
+   padding-top: 00px;
+   font-family: sans-serif;
+   color: #171A20;
+
+}
+
+.Modelo5 h6{
+   margin-top: -30px;
+   font-size: 18px;
+   color: #171A20;
+}
+
+.Modelo5 a{
+   color: #333;
+}
+
+.button5{
+   width: 520px;
+   height: 50px;
+   text-align: center;
+   margin: auto;
+   margin-top:800px;
+}
+
+   /* conteudo 8 */
+   
+   .Conteudo6{
+    height: 1000px;
+    width: 700px;
+   margin: auto;
+   text-align: center;
+   margin-top: 140px;
+}
+.Modelo6{
+   height: 220px;
+   width: 100%;
+}
+
+.Modelo6 h1{
+   font-size: 55px;
+   padding-top: 00px;
+   font-family: sans-serif;
+   color: #171A20;
+
+}
+
+.Modelo6 h6{
+   margin-top: -30px;
+   font-size: 18px;
+   color: #171A20;
+}
+
+.Modelo6 a{
+   color: #333;
+}
+
+.button6{
+   width: 520px;
+   height: 50px;
+   text-align: center;
+   margin: auto;
+   margin-top:800px;
+}
+.Conteudo p{
+    margin-top: 50px;
+}
+
+
+
+.Conteudo7{
+    height: 1000px;
+    width: 700px;
+   margin: auto;
+   text-align: center;
+   margin-top: 140px;
+}
+.Modelo7{
+   height: 220px;
+   width: 100%;
+}
+
+.Modelo7 h1{
+   font-size: 55px;
+   padding-top: 00px;
+   font-family: sans-serif;
+   color: #171A20;
+
+}
+
+.Modelo7 h6{
+   margin-top: -30px;
+   font-size: 18px;
+   color: #171A20;
+}
+
+.Modelo7 a{
+   color: #333;
+}
+
+.button7{
+   width: 620px;
+   height: 50px;
+   text-align: center;
+   margin: auto;
+   margin-top:800px;
+}
+.Conteudo7 p{
+    margin-top: 100px;
+    width: 1000px;
+    text-align: center;
+    margin: auto;
+    transform: translateX(-120px);
+}
+
+  
+    
+ }
+
+
+ @media (min-width:1921px){
+
+
+
+    .btn1{
+         width: 100px;
+         height: 50;
+         background-color: white;
+         color: black;
+     
+     
+     }
+     
+     .btn2{
+     
+         width: 100px;
+         height: 50px;
+         background-color: black;
+         color: white;
+     }
+     
+     .btn{
+         width: 200px;
+         height: 100px;
+         position: fixed;
+         display: flex;
+         margin-top: 90vh;
+         margin-left: 30px;
+         
+     }
+ 
+     .Conteudo{
+         height: 1000px;
+         width: 700px;
+        margin: auto;
+        text-align: center;
+    }
+    .Modelo{
+        height: 300px;
+        width: 100%;
+    
+    }
+ 
+    
+    .Modelo h1{
+        font-size: 55px;
+        padding-top: 00px;
+        font-family: sans-serif;
+        color: #171A20;
+    
+    }
+    
+    .Modelo h6{
+        margin-top: -30px;
+        font-size: 20px;
+        color: #171A20;
+    }
+    
+    .Modelo a{
+        color: #333;
+    }
+    
+    .button{
+        width: 520px;
+        height: 50px;
+        text-align: center;
+        margin: auto;
+        margin-top:600px;
+    }
+    
+    /* conteudo 2 */
+    
+ 
+    
+    .Conteudo2{
+        height: 1000px;
+        width: 700px;
+       margin: auto;
+       text-align: center;
+       margin-top: 140px;
+    }
+    .Modelo2{
+       height: 220px;
+       width: 100%;
+    }
+    
+    .Modelo2 h1{
+       font-size: 55px;
+       padding-top: 00px;
+       font-family: sans-serif;
+       color: #171A20;
+    
+    }
+    
+    .Modelo2 h6{
+       margin-top: -30px;
+       font-size: 18px;
+       color: #171A20;
+    }
+    
+    .Modelo2 a{
+       color: #333;
+    }
+    
+    .button2{
+       width: 520px;
+       height: 50px;
+       text-align: center;
+       margin: auto;
+       margin-top:800px;
+    }
+   
+    /* conteudo 3 */
+    
+    .Conteudo3{
+     height: 1000px;
+     width: 700px;
+    margin: auto;
+    text-align: center;
+    margin-top: 140px;
+ }
+ .Modelo3{
+    height: 220px;
+    width: 100%;
+ }
+ 
+ .Modelo3 h1{
+    font-size: 55px;
+    padding-top: 00px;
+    font-family: sans-serif;
+    color: #171A20;
+ 
+ }
+ 
+ .Modelo3 h6{
+    margin-top: -30px;
+    font-size: 18px;
+    color: #171A20;
+ }
+ 
+ .Modelo3 a{
+    color: #333;
+ }
+ 
+ .button3{
+    width: 520px;
+    height: 50px;
+    text-align: center;
+    margin: auto;
+    margin-top:800px;
+ }
+ 
+    /* conteudo 5 */
+    
+    .Conteudo4{
+     height: 1000px;
+     width: 700px;
+    margin: auto;
+    text-align: center;
+    margin-top: 140px;
+ }
+ .Modelo4{
+    height: 220px;
+    width: 100%;
+ }
+ 
+ .Modelo4 h1{
+    font-size: 55px;
+    padding-top: 00px;
+    font-family: sans-serif;
+    color: #171A20;
+ 
+ }
+ 
+ .Modelo4 h6{
+    margin-top: -30px;
+    font-size: 18px;
+    color: #171A20;
+ }
+ 
+ .Modelo4 a{
+    color: #333;
+ }
+ 
+ .button4{
+    width: 520px;
+    height: 50px;
+    text-align: center;
+    margin: auto;
+    margin-top:800px;
+ }
+ 
+    /* conteudo 6 */
+    
+    .Conteudo5{
+     height: 1000px;
+     width: 700px;
+    margin: auto;
+    text-align: center;
+    margin-top: 140px;
+ }
+ .Modelo5{
+    height: 220px;
+    width: 100%;
+ }
+ 
+ .Modelo5 h1{
+    font-size: 55px;
+    padding-top: 00px;
+    font-family: sans-serif;
+    color: #171A20;
+ 
+ }
+ 
+ .Modelo5 h6{
+    margin-top: -30px;
+    font-size: 18px;
+    color: #171A20;
+ }
+ 
+ .Modelo5 a{
+    color: #333;
+ }
+ 
+ .button5{
+    width: 520px;
+    height: 50px;
+    text-align: center;
+    margin: auto;
+    margin-top:800px;
+ }
+ 
+    /* conteudo 8 */
+    
+    .Conteudo6{
+     height: 1000px;
+     width: 700px;
+    margin: auto;
+    text-align: center;
+    margin-top: 140px;
+ }
+ .Modelo6{
+    height: 220px;
+    width: 100%;
+ }
+ 
+ .Modelo6 h1{
+    font-size: 55px;
+    padding-top: 00px;
+    font-family: sans-serif;
+    color: #171A20;
+ 
+ }
+ 
+ .Modelo6 h6{
+    margin-top: -30px;
+    font-size: 18px;
+    color: #171A20;
+ }
+ 
+ .Modelo6 a{
+    color: #333;
+ }
+ 
+ .button6{
+    width: 520px;
+    height: 50px;
+    text-align: center;
+    margin: auto;
+    margin-top:800px;
+ }
+ .Conteudo p{
+     margin-top: 50px;
+ }
+ 
+ 
+ 
+ .Conteudo7{
+     height: 1000px;
+     width: 700px;
+    margin: auto;
+    text-align: center;
+    margin-top: 140px;
+ }
+ .Modelo7{
+    height: 220px;
+    width: 100%;
+ }
+ 
+ .Modelo7 h1{
+    font-size: 55px;
+    padding-top: 00px;
+    font-family: sans-serif;
+    color: #171A20;
+ 
+ }
+ 
+ .Modelo7 h6{
+    margin-top: -30px;
+    font-size: 18px;
+    color: #171A20;
+ }
+ 
+ .Modelo7 a{
+    color: #333;
+ }
+ 
+ .button7{
+    width: 620px;
+    height: 50px;
+    text-align: center;
+    margin: auto;
+    margin-top:800px;
+ }
+ .Conteudo7 p{
+     margin-top: 100px;
+     width: 1000px;
+     text-align: center;
+     margin: auto;
+     transform: translateX(-120px);
+ }
+ 
+   
+     
+  }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+     
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
